@@ -4,7 +4,7 @@ FreeCodeCamp.org front end libraries project.
 Feel free to use or modify.
 Crediting isn’t required, but is appreciated
 
-https://codepen.io/t-batbayar/pen/QRwwVr
+https://codepen.io/t-batbayar/full/QRwwVr
 
 1. Install required npm modules
 ```
