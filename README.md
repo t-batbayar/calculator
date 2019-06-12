@@ -6,7 +6,7 @@ Crediting isn’t required, but is appreciated
 
 https://codepen.io/t-batbayar/pen/QRwwVr
 
-1. Install required modules
+1. Install required npm modules
 ```
 npm install
 ```
@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 
-Minimize
+Production build
 ```
 npm build
 ```
